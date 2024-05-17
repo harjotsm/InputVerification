@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="user_id">User-ID</string>
+    <string name="already_activated">Already Activated</string>
+    <string name="activate">Activate</string>
+    <string name="password_confirmation">Password Confirmation</string>
+    <string name="password">Password</string>
+    <string name="activation_code">Activation Code</string>
+    <string name="tenant_id">Tenant-ID</string>
+    <string name="LockIcon">LockIcon</string>
+</resources>
